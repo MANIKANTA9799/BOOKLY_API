@@ -1,3 +1,6 @@
 .env
 alembic.ini
 migrations
+__pycache__
+__pycache__/
+*.pyc
