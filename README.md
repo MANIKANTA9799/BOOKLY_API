@@ -1,6 +1,6 @@
 # 📚 Bookly API
 
-A production-style REST API built with **FastAPI** following modern backend engineering practices. This project is inspired by the **FastAPI Beyond CRUD** course by JOD35 and demonstrates authentication, authorization, database management, API design, and scalable backend architecture.
+A production-style REST API built with **FastAPI** following modern backend engineering practices. It demonstrates authentication, authorization, database management, API design, and scalable backend architecture.
 
 ---
 
